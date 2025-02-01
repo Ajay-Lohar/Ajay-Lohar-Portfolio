@@ -46,6 +46,7 @@ const Skills = () => {
 
               
                 <img src="https://vectorwiki.com/images/gPR02__hibernate.svg" height="16"  width="30"  />
+                <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" height="16"  width="30"  />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="16" alt="spring logo"  width="30" />
 
                 
@@ -55,6 +56,7 @@ const Skills = () => {
               <p >Database : </p>
 
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="16"  width="30" />
+             <img src="https://www.svgviewer.dev/static-svgs/34566/mongodb.svg" height="16" width="30" />
              
                 
               </div>
