@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import profile from '../assets/profilepic.png'
 
 
 const Home = () => {
@@ -59,7 +60,7 @@ const Home = () => {
         </div>
         <div className='w-1/2 '>
         
-        <img  className=' flex justify-center items-center' src="https://github.com/Ajay-Lohar/Ajay-Lohar-Portfolio/blob/main/Portfolio/src/Images/title-logo.png?raw=true" alt="" />
+        <img  className=' flex justify-center items-center' src={profile} alt="" />
         </div>
     </div>
     <Link to={`https://github.com/Ajay-Lohar`}>
